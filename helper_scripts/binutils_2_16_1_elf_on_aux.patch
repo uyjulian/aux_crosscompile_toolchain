@@ -1,0 +1,11 @@
+diff -burN binutils-2.16.1_orig/bfd/config.bfd binutils-2.16.1/bfd/config.bfd
+--- binutils-2.16.1_orig/bfd/config.bfd	2005-01-31 11:18:47.000000000 -0600
++++ binutils-2.16.1/bfd/config.bfd	2023-05-16 22:49:22.685075556 -0500
+@@ -767,6 +767,7 @@
+     ;;
+   m68*-apple-aux*)
+     targ_defvec=m68kaux_coff_vec
++    targ_selvecs=bfd_elf32_m68k_vec
+     ;;
+   m68*-*-psos*)
+     targ_defvec=bfd_elf32_m68k_vec
