@@ -2,9 +2,11 @@
 A/UX Crosscompile Toolchain
 ===========================
 
-Cross compile toolchain for A/UX (Apple Unix) 3.1.  
+Modern cross compile toolchain for A/UX (Apple Unix) 3.1 with modern ELF Binutils and GCC.  
 
-Still a work in progress.  
+The difference from `Retro68 <https://github.com/autc04/Retro68>`_ is that it will run as a Unix process and not as a Mac process inside `startmac`.  
+
+Still a work in progress; see `remaining work to do <https://github.com/uyjulian/aux_crosscompile_toolchain/issues/1>`_.  
 
 Assets
 ------
