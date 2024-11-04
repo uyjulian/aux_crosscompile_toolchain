@@ -8,6 +8,8 @@ The difference from `Retro68 <https://github.com/autc04/Retro68>`_ is that it wi
 
 Still a work in progress; see `remaining work to do <https://github.com/uyjulian/aux_crosscompile_toolchain/issues/1>`_.  
 
+68kmla `forum thread <https://68kmla.org/bb/index.php?threads/x.48755/>`_.
+
 Assets
 ------
 
